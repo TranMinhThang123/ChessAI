@@ -1,0 +1,38 @@
+code
+https://www.kaggle.com/competitions/fide-google-efficiency-chess-ai-challenge/discussion/546988
+https://www.kaggle.com/code/arianahejazyan/advanced-tactics-evaluation
+https://www.kaggle.com/code/nuozhou1/useful-ideas-and-articles-chinese-english
+https://www.kaggle.com/code/shawnxxq/advanced-chess-engine-with-alpha-beta-pruning
+https://www.kaggle.com/code/wguesdon/littledeepblue#1.-Architecture-Changes
+https://www.kaggle.com/code/bovard/your-first-chess-bot
+https://towardsdatascience.com/building-a-chess-engine-part2-db4784e843d5
+https://www.geeksforgeeks.org/multi-armed-bandit-problem-in-reinforcement-learning/
+https://towardsdatascience.com/playing-chess-with-a-generalized-ai-b83d64ac71fe
+theory:
+https://medium.com/analytics-vidhya/how-chess-algorithm-works-69e8ae165323
+https://www.geeksforgeeks.org/upper-confidence-bound-algorithm-in-reinforcement-learning/
+https://medium.com/@ishaan.gupta0401/monte-carlo-tree-search-application-on-chess-5573fc0efb75
+https://jyopari.github.io/MCTS.html
+https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-4-alpha-beta-pruning/
+https://medium.com/@_michelangelo_/alphazero-for-dummies-5bcc713fc9c6
+https://towardsdatascience.com/alphazero-implementation-and-tutorial-f4324d65fdfc
+https://towardsdatascience.com/alphazero-chess-how-it-works-what-sets-it-apart-and-what-it-can-tell-us-4ab3d2d08867
+https://suragnair.github.io/posts/alphazero.html
+https://arxiv.org/pdf/2308.09175
+https://arxiv.org/pdf/1712.01815 Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm
+https://arxiv.org/pdf/2109.11602 Chess AI: Competing Paradigms for Machine Intelligence
+https://arxiv.org/pdf/2407.04240 A Multi-Step Minimax Q-Learning Algorithm for Two-Player Zero-Sum Markov Games
+https://arxiv.org/pdf/1805.09613 A0C: Alpha Zero in Continuous Action Space
+https://arxiv.org/pdf/2305.13206 Know your Enemy: Investigating Monte-Carlo Tree Search with Opponent Models in Pommerman
+thread:
+https://datascience.stackexchange.com/questions/104689/which-ai-algorithm-is-best-for-chess
+https://github.com/apostolisv/chess-ai
+evaluate chess position:
+https://www.chessprogramming.org/Evaluation
+
+Key-word:
+- Q-learning
+- Monte calor tree search
+- Minimax algorithm
+how to submit: 
+- https://www.kaggle.com/code/vienas/minmax-works-but-times-out-after-few-moves
