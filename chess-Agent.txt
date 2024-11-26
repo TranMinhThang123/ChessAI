@@ -8,6 +8,8 @@ https://www.kaggle.com/code/bovard/your-first-chess-bot
 https://towardsdatascience.com/building-a-chess-engine-part2-db4784e843d5
 https://www.geeksforgeeks.org/multi-armed-bandit-problem-in-reinforcement-learning/
 https://towardsdatascience.com/playing-chess-with-a-generalized-ai-b83d64ac71fe
+https://www.kaggle.com/code/callummaystone/silly-goose-chess-bot-agn-cube4d-dre
+https://www.kaggle.com/code/satyaprakashswain/the-knight-s-gambit-crafting-efficient-chess/notebook#%F0%9F%A7%A0-How-It-Works:-The-Chess-Grandmaster's-Brain
 theory:
 https://medium.com/analytics-vidhya/how-chess-algorithm-works-69e8ae165323
 https://www.geeksforgeeks.org/upper-confidence-bound-algorithm-in-reinforcement-learning/
